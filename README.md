@@ -16,4 +16,8 @@
 
  $ cd Dh-All
 
- $  bash Dh-All.sh
+ $  cd Main_Code
+
+ $  pip install -r requirements.txt
+
+ $  python3 dhall.py
